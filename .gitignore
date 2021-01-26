@@ -1,0 +1,5 @@
+# Ignore Information Text File
+information.txt
+
+# Ignore Github init folder
+.git/
